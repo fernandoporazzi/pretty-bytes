@@ -1,6 +1,8 @@
 # pretty-bytes
 Convert bytes to a human readable string: 1337 → 1.34 kB
 
+![Build](https://github.com/fernandoporazzi/pretty-bytes/workflows/Build/badge.svg)
+
 ## Install
 
 ```
